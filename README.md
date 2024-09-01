@@ -1,24 +1,56 @@
-# Review Singkat tentang Codecademy
+Tentu! Berikut adalah versi singkat dari deskripsi dengan maksimal 300 kata:
 
-Codecademy adalah platform belajar pemrograman online yang dirancang untuk membantu penggunanya belajar berbagai bahasa dan teknologi pemrograman dengan cara yang interaktif dan praktis. Berikut adalah review singkat tentang Codecademy dalam hal tutor, tool, dan tute:
+---
+
+## Tugas Review Aplikasi
+
+Nama        : M. Gymnastiar  
+NIM         : 2110131210004  
+Mata Kuliah : Pembelajaran Berbantuan Komputer
+
+<h1 align="center">CodeCademy</h1>
+
+<p align="justify">CodeCademy adalah platform belajar pemrograman online yang menawarkan berbagai bahasa dan teknologi dengan pendekatan interaktif. Platform ini dirancang untuk membantu pengguna belajar secara praktis dan terstruktur.</p>
 
 Klik Disini Untuk Mencoba [Codecademy](https://www.codecademy.com/learn)
 
-## Tutor
+### Apa saja yang dapat dipelajari di CodeCademy?
 
-- **Konten Terstruktur**: Codecademy menyediakan kursus yang terstruktur dengan jelas, dirancang oleh pengembang berpengalaman dan instruktur dalam industri. Meskipun tidak ada tutor live di platform ini, kursus dirancang dengan modul yang mudah diikuti dan dipahami.
-- **Kursus Terpercaya**: Materi kursus dikembangkan oleh tim internal Codecademy dan mitra industri. Kualitas konten biasanya baik dan relevan dengan kebutuhan industri.
+<p align="justify">
+    Di CodeCademy, pengguna dapat mempelajari berbagai topik, termasuk:
+</p>
+<ul>
+    <li>Bahasa Pemrograman:
+        <ul>
+            <li>Python, JavaScript, HTML & CSS, SQL, Java, C++, C#, Bash, PHP, R, Swift</li>
+        </ul>
+    </li>
+    <li>Konsep dan Teknologi:
+        <ul>
+            <li>Cloud Computing, Artificial Intelligence (AI), Web Development, Data Science, Web Design</li>
+        </ul>
+    </li>
+    <li>Kursus Spesifik:
+        <ul>
+            <li>Full-Stack Engineer, Back-End Engineer, iOS Developer, Front-End Engineer, Computer Science</li>
+        </ul>
+    </li>
+</ul>
 
-## Tool
+<p align="justify">
+    Sebagai tutor, CodeCademy menyediakan kursus interaktif dengan modul yang mencakup teks, video, dan latihan coding. Pengguna mendapatkan umpan balik langsung dan proyek praktis untuk mengevaluasi kemajuan mereka.
+</p>
 
-- **Editor Kode Interaktif**: Codecademy menawarkan editor kode langsung di dalam browser, memungkinkan Anda untuk menulis, menjalankan, dan melihat hasil kode tanpa perlu menginstal perangkat lunak tambahan.
-- **Latihan dan Proyek**: Platform ini menyediakan latihan interaktif, kuis, dan proyek praktis untuk memperdalam pemahaman Anda tentang materi. Anda dapat berlatih coding langsung di situs dan mendapatkan umpan balik langsung.
-- **Alat Pembelajaran**: Codecademy dilengkapi dengan fitur-fitur seperti progress tracking, forum diskusi, dan materi bacaan tambahan untuk mendukung proses belajar.
+<img src="img/tutorial.png">
 
-## Tutee
+<p align="justify">
+    Sebagai alat bantu, CodeCademy menawarkan editor kode online dan proyek praktis yang memungkinkan pengguna menerapkan konsep dalam situasi nyata. Ini memudahkan pengguna untuk belajar dan mempraktikkan keterampilan tanpa berpindah halaman.
+</p>
 
-- **Belajar Mandiri**: Codecademy dirancang untuk self-learners atau siswa yang ingin belajar secara mandiri. Platform ini cocok bagi mereka yang memiliki motivasi untuk belajar dan ingin menguasai keterampilan coding secara praktis.
+<img src="img/codeeditor.png">
 
-## Kesimpulan Hasil Review
+<p align="justify">
+    Dalam CodeCademy, pengguna berlatih menulis kode untuk menginstruksikan komputer, melihat hasil langsung, dan mengembangkan solusi secara real-time melalui proyek dan latihan interaktif.
+</p>
 
-Codecademy adalah platform yang sangat berguna untuk pembelajaran pemrograman dengan fokus pada pengalaman interaktif. Dengan editor kode langsung, latihan praktis, dan kursus yang terstruktur dengan baik, Codecademy menyediakan alat yang kuat untuk belajar coding. Meskipun tidak ada tutor langsung, forum komunitas dan materi yang disediakan mendukung proses belajar secara mandiri.
+<img src="img/2.png" width=80%>
