@@ -1,7 +1,3 @@
-Tentu! Berikut adalah versi singkat dari deskripsi dengan maksimal 300 kata:
-
----
-
 ## Tugas Review Aplikasi
 
 Nama        : M. Gymnastiar  
